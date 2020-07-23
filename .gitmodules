@@ -1,0 +1,6 @@
+[submodule ".vim/pack/mypackage/start/vim-clang-format"]
+	path = .vim/pack/mypackage/start/vim-clang-format
+	url = git@github.com:rhysd/vim-clang-format.git
+[submodule ".vim/pack/mypackage/start/vim-operator-user"]
+	path = .vim/pack/mypackage/start/vim-operator-user
+	url = git@github.com:kana/vim-operator-user.git
